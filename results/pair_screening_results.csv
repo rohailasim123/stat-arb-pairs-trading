@@ -1,0 +1,2 @@
+pair,correlation,eg_pvalue,johansen_trace,johansen_crit95,hedge_ratio,half_life_days,passes,reasons
+XOM~CVX,0.976,0.0343,15.28,15.49,1.359,57.4,False,fails Johansen trace test at 95%

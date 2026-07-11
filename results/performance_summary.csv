@@ -1,0 +1,16 @@
+,0
+annualized_return,-0.00992420383274295
+annualized_vol,0.010386606146128833
+sharpe,-0.9554809042645539
+sortino,-0.5081092897738665
+max_drawdown,-0.05005468496902954
+calmar,-0.19826723190613182
+total_cost_drag,0.04761582397392615
+avg_daily_turnover,0.06802260567703734
+n_position_changes,68
+win_rate,0.32710280373831774
+bootstrap_sharpe_ci_low,-1.9909227519785846
+bootstrap_sharpe_ci_high,-0.043874448985401056
+bootstrap_p_value_le_zero,0.9798
+deflated_sharpe_ratio,2.3959584095630412e-06
+pair,B1~A1
